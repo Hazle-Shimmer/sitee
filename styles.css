@@ -13,6 +13,7 @@ body {
   p {
     color: rgb(133, 73, 73);
     margin-left: 10px;
+    padding-bottom: 500px;
   }
   .navbar {
     overflow: hidden;
@@ -40,6 +41,9 @@ body {
   padding: 20px; /* Some padding */
   text-align: center; /* Center text*/
   background:rgb(133, 73, 73); /* Grey background */
+}
+.header {
+  color: rgb(133, 73, 73);
 }
 
   
